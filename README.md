@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <br/>
-
+E-mail: githubseob@gmail.com
 
 ### 😄 GitHub Stats 😄
   <br/>
