@@ -26,3 +26,5 @@
 
 <a href="https://www.acmicpc.net/user/dogeee" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-004088?style=round&logo=BookStack&logoColor=white"/></a>
 <a href="https://algospot.com/user/profile/148400" target="_blank"><img src="https://img.shields.io/badge/Algospot-FF0000?style=round&logo=AniList&logoColor=white"/></a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGitHubSeob&count_bg=%2311A1DF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
